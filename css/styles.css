@@ -14,7 +14,7 @@
     position: absolute;
     margin: 19vw auto auto 13vw;
     background-color: rgb(5, 95, 28);
-    padding: 1rem;
+    padding: 1vw;
     outline: 1px solid rgb(233, 228, 185);
     
     
@@ -52,7 +52,7 @@
     /* font-size: 1.5rem; */
     letter-spacing: 2.4vw;
     /* width:1080px; */
-    font-size: 2vw;
-    text-align:left;
+    font-size: 1.9vw;
+    /* text-align:left; */
     
 }
